@@ -41,8 +41,24 @@ Simple login and register forms, project is based at backend. Demonstration of t
 4. To start server use npm devStart. And open localhost/3000.<br>
 
 ## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Show examples of usage:<br>
+`const initializePassport = require('./passport-config')`<br>
+  `initializePassport(`<br>
+    `passport,`<br>
+    `email => users.find(user => user.email === email),`<br>
+    `id => users.find(user => user.id === id)`<br>
+  `)`<br>
+  
+  `const users = []`<br>
+  
+  `app.set('view-engine', 'ejs')`<br>
+  `app.use(express.urlencoded({ extended: false }))`<br>
+  `app.use(flash())`<br>
+  `app.use(session({`<br>
+    `secret: process.env.SESSION_SECRET,`<br>
+    `resave: false,`<br>
+    `saveUninitialized: false`<br>
+  `}))``<br>
 
 ## Features
 List of features ready and TODOs for future development
