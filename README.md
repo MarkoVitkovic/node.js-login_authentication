@@ -28,7 +28,7 @@ Simple login and register forms, project is based at backend. Demonstration of t
 
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+First create emptz folder and open with VSCode. Then create files(you can see them in projet) 
 
 ## Code Examples
 Show examples of usage:
