@@ -58,23 +58,25 @@ Show examples of usage:<br>
     `secret: process.env.SESSION_SECRET,`<br>
     `resave: false,`<br>
     `saveUninitialized: false`<br>
-  `}))``<br>
+  `}))`<br>
 
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Register form
+* Login
+* After you login with one user, you cant login whit another user. Only if you logout you can.
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Implement in bigger project
+* Add better design
+* Connect to real database( online, local)
+
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _finished_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Credits: [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
