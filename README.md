@@ -18,9 +18,14 @@ Simple login and register forms, project is based at backend. Demonstration of t
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* bcrypt - version 4.0.1
+* ejs - version 3.0.2
+* express - version 4.17.1
+* express-flash - version 0.0.2
+* express-session - version 1.17.0
+* method-override - version 3.0.0
+* passport - version 0.4.1
+
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
