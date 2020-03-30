@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Simple login and register forms, project is based at backend. Demonstration of tehnologies, as I start learn backend. In this project you can create new user, or if you have account then you can login. This project is not demonstration of frontend, just backend.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
