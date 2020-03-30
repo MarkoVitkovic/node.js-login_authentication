@@ -28,7 +28,8 @@ Simple login and register forms, project is based at backend. Demonstration of t
 
 
 ## Setup
-First create emptz folder and open with VSCode. Then create files(you can see them in projet) 
+First create emptz folder and open with VSCode. Then create files(you can see them in projet) <br>
+![](https://github.com/MarkoVitkovic/node.js-login_authentication/blob/master/code.png)<br>
 
 ## Code Examples
 Show examples of usage:
