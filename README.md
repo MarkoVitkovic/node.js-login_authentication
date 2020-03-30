@@ -15,7 +15,12 @@
 Simple login and register forms, project is based at backend. Demonstration of tehnologies, as I start learn backend. In this project you can create new user, or if you have account then you can login. This project is not demonstration of frontend, just backend.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+Register form <br>
+![](https://github.com/MarkoVitkovic/node.js-login_authentication/blob/master/register.png)<br>
+Login form<br>
+![](https://github.com/MarkoVitkovic/node.js-login_authentication/blob/master/form.png)<br>
+Logged<br>
+![](https://github.com/MarkoVitkovic/node.js-login_authentication/blob/master/login.png)<br>
 
 ## Technologies
 * bcrypt - version 4.0.1
