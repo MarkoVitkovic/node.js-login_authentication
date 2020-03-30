@@ -28,8 +28,16 @@ Simple login and register forms, project is based at backend. Demonstration of t
 
 
 ## Setup
-First create emptz folder and open with VSCode. Then create files(you can see them in projet) <br>
+1. First create empty folder and open with VSCode. Then create files(you can see them in projcet) <br>
 ![](https://github.com/MarkoVitkovic/node.js-login_authentication/blob/master/code.png)<br>
+2. Open new terminal and install: <br>
+![](https://github.com/MarkoVitkovic/node.js-login_authentication/blob/master/term.png)<br>
+3. Install following lib:<br>
+  * `npm install bcrypt`
+  * `npm install ejs`
+  * `npm install express express-flash express-session`
+  * `npm install passport`
+  * `npm install method-override`
 
 ## Code Examples
 Show examples of usage:
