@@ -38,6 +38,7 @@ Simple login and register forms, project is based at backend. Demonstration of t
   * `npm install express express-flash express-session`
   * `npm install passport`
   * `npm install method-override`
+4. To start server use npm devStart. And open localhost/3000.<br>
 
 ## Code Examples
 Show examples of usage:
